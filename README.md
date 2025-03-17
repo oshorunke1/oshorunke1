@@ -11,7 +11,7 @@ I have expertise in the following:
 - Database Design
 - Data Modelling.
 
-🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 Language: Python, SQL, JavaScript/TypeScript, C, C#, Lua, Java, Swift, Ruby
 Database: Google BigQuery, PostgreSQL, MySQL
 Visualization: PowerBI, Excel
