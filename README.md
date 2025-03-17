@@ -5,11 +5,10 @@
 Hi, my name is Olushola Shorunke! I am a Data Analyst, Software Engineer, and SQL Developer.
 
 ### 🗒️ Expertise
-- Data Analysis
-- Reporting
-- Query Optimization
-- Database Design
-- Data Modelling
+- Analyzing data and creating reports with Google Sheets and Excel.
+- Produce reports and carry out ad-hoc data analysis using SQL.
+- Using SQL to retrieve, and extract data.
+- Creating dashboards on Power BI, and Tableau.
 
 ### 🛠️ Skills & Tools
 - Language: Python, SQL, JavaScript/TypeScript, C, C#, Lua, Java, Swift, Ruby
