@@ -4,7 +4,7 @@
 
 Hi, my name is Olushola Shorunke! I am a Data Analyst, Software Engineer, and SQL Developer.
 
-I have expertise in the following:
+### 🗒️ Expertise
 - Data analysis
 - Reporting
 - Query Optimization
