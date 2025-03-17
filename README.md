@@ -2,6 +2,15 @@
 
 ![Banner](https://github.com/user-attachments/assets/10ef422b-b07b-4aef-bead-20e462a0bf6c)
 
+Hi, my name is Olushola Shorunke! I am, Data Analyst, Software Engineer, and SQL Developer.
+
+I have expertise in the following:
+- Data analysis
+- Reporting
+- Query Optimization
+- Database Design
+- Data Modelling.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
