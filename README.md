@@ -1,4 +1,4 @@
-### Introducing Olushola Shorunke! 👋
+### Introducting Myself! 👋
 
 ![Banner](https://github.com/user-attachments/assets/b9b93cdb-4da8-47ad-a225-3463964288ec)
 
