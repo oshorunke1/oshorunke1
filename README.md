@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/10ef422b-b07b-4aef-bead-20e462a0bf6c)
 
-Hi, my name is Olushola Shorunke! I am a Data Analyst, Software Engineer, and SQL Developer.
+Hi, my name is Olushola Shorunke! I am a Data Analyst, Software Engineer, and SQL Developer. I've worked within these roles collectively for about 6 years now.
 
 ### 🗒️ Expertise
 - Analyzing data and creating reports with Google Sheets and Excel.
