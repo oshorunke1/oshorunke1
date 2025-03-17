@@ -5,11 +5,11 @@
 Hi, my name is Olushola Shorunke! I am a Data Analyst, Software Engineer, and SQL Developer.
 
 ### 🗒️ Expertise
-- Data analysis
+- Data Analysis
 - Reporting
 - Query Optimization
 - Database Design
-- Data Modelling.
+- Data Modelling
 
 ### 🛠️ Skills & Tools
 - Language: Python, SQL, JavaScript/TypeScript, C, C#, Lua, Java, Swift, Ruby
