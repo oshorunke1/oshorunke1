@@ -12,9 +12,9 @@ I have expertise in the following:
 - Data Modelling.
 
 ### 🛠️ Skills & Tools
-Language: Python, SQL, JavaScript/TypeScript, C, C#, Lua, Java, Swift, Ruby
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: PowerBI, Excel
+- Language: Python, SQL, JavaScript/TypeScript, C, C#, Lua, Java, Swift, Ruby
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: PowerBI, Excel
 
 <!--
 **oshorunke1/oshorunke1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
