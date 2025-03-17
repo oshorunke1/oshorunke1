@@ -13,8 +13,12 @@ I have expertise in the following:
 
 ### 🛠️ Skills & Tools
 - Language: Python, SQL, JavaScript/TypeScript, C, C#, Lua, Java, Swift, Ruby
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: PowerBI, Excel
+- Database: Google BigQuery, PostgreSQL, MySQL, DynamoDB
+- Visualization & Frameworks: Knit Framework, FSM, SpringBoot, Git, Vercel, ShadeCN, PowerBI, Excel, Tableau
+- API Development: REST, GraphQL
+- Cloud Platforms: AWS, Azure
+- Security & DevOps: Kubernetes, GitHub Actions, BurpSuite, StrongDM, JUnit, AWS Lambda
+- Scripting & Automation: YAML, Nunjucks, Scriban, Shell Scripting
 
 <!--
 **oshorunke1/oshorunke1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
