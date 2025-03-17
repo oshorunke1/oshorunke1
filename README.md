@@ -1,6 +1,6 @@
 ### Introducting Myself! 👋
 
-![Banner](https://github.com/user-attachments/assets/b9b93cdb-4da8-47ad-a225-3463964288ec)
+![Banner](https://github.com/user-attachments/assets/10ef422b-b07b-4aef-bead-20e462a0bf6c)
 
 Here are some ideas to get you started:
 
