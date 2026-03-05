@@ -1,34 +1,42 @@
-### Introducting Myself! 👋
+# Hi, I'm Olushola Shorunke 👋
 
-Hi, my name is Olushola Shorunke! I am a Data Analyst, Software Engineer, and SQL Developer. I've worked within these roles collectively for about 6 years, while also spending around 11-12 years coding in general.
+I'm a **Software Engineer** with 4 years of professional experience and over a decade of coding under my belt. I build reliable, scalable systems — from backend APIs and cloud infrastructure to full-stack applications — with a strong focus on clean architecture, security, and developer tooling.
 
-### 🗒️ Expertise
-- Analyzing data and creating reports with Google Sheets and Excel.
-- Produce reports and carry out ad-hoc data analysis using SQL.
-- Using SQL to retrieve, and extract data.
-- Creating dashboards on Power BI, and Tableau.
+---
 
-### 🛠️ Skills & Tools
-- Language: Python, SQL, JavaScript/TypeScript, C, C#, Lua, Java, Swift, Ruby
-- Database: Google BigQuery, PostgreSQL, MySQL, DynamoDB
-- Visualization & Frameworks: Knit Framework, FSM, SpringBoot, Git, Vercel, ShadeCN, PowerBI, Excel, Tableau
-- API Development: REST, GraphQL
-- Cloud Platforms: AWS, Azure
-- Security & DevOps: Kubernetes, GitHub Actions, BurpSuite, StrongDM, JUnit, AWS Lambda
-- Scripting & Automation: YAML, Nunjucks, Scriban, Shell Scripting
+## 🛠️ Skills & Technologies
 
-<!--
-**oshorunke1/oshorunke1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+Python · JavaScript / TypeScript · Java · C · C# · Swift · Ruby · Lua · SQL
 
-Here are some ideas to get you started:
+**Backend & APIs**
+REST · GraphQL · SpringBoot · AWS Lambda · Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+**Cloud & DevOps**
+AWS · Azure · Kubernetes · GitHub Actions · Vercel · YAML
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases**
+PostgreSQL · MySQL · Google BigQuery · DynamoDB
+
+**Security & Access**
+BurpSuite · StrongDM · JUnit
+
+**Frameworks & Tooling**
+Git · ShadCN · Knit Framework · FSM · Nunjucks · Scriban
+
+**Data & Reporting**
+SQL · Google Sheets · Excel · Power BI · Tableau
+
+---
+
+## 🔭 What I'm Working On
+
+- Building and maintaining production-grade backend systems
+- Exploring deeper security engineering and DevSecOps practices
+- Improving developer experience through automation and tooling
+
+---
+
+## 📫 Reach Me
+
+Feel free to connect or reach out — I'm always open to interesting projects and conversations.
