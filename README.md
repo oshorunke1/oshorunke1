@@ -10,6 +10,3 @@ Full stack software engineer. I build backend services and the products on top o
 - Sole engineer on two commercially acquired products, each taken from an empty repository to 15,000-20,000 concurrent users, then handed to the acquiring team and supported in production after transfer
 - Real-time multiplayer backends at 17,000+ concurrent users, sub-120 ms
 - Five client-specific backend frameworks delivered as a freelance engineer, scoped with each client and operated at 99.9% uptime
-
-
-Atlanta, GA
