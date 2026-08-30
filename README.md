@@ -1,5 +1,4 @@
 # Olushola Shorunke
-
 Full stack software engineer. I build backend services and the products on top of them, and I work directly with the people who use what I ship.
 
 ### What I work on
@@ -12,6 +11,5 @@ Full stack software engineer. I build backend services and the products on top o
 - Real-time multiplayer backends at 17,000+ concurrent users, sub-120 ms
 - Five client-specific backend frameworks delivered as a freelance engineer, scoped with each client and operated at 99.9% uptime
 
-Most of my work lives in private repositories. Happy to walk through architecture and tradeoffs directly.
 
 Atlanta, GA
