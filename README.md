@@ -14,7 +14,7 @@ Full Stack Software Engineer. I build backend services, real-time multiuser syst
 
 ### Track record
 - Lead engineer on two commercially acquired games, each built from an empty repository to 15,000-20,000 concurrent players, then handed over to the acquiring team and supported in production after transfer
-- Earned$50,000 USD in revenue in the first 3 days of one launch
+- Earned well over $50,000 USD in revenue in the first 3 days of one launch
 - Real-time multiplayer backends held at sub-120 ms for 17,000+ concurrent users
 - Five client-specific backend frameworks delivered as a backend engineer, operated at 99.9% uptime
 - AI benchmark and evaluation task authoring
