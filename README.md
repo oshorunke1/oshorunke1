@@ -3,10 +3,10 @@
 Full Stack Software Engineer. I build backend services, real-time multiuser systems, and AI agent tooling, and I have shipped projects since 2014.
 
 ### Featured project
-**[Outpost](https://github.com/oshorunke1/outpost)**: a strict-Luau framework with server-authoritative networking, fail-closed input validation, migration-safe saves, CI, architecture docs, and a written threat model. A TypeScript backend and an MCP agent server are planned next.
+**[Outpost](https://github.com/oshorunke1/outpost)**: a strict-Luau framework with server-authoritative networking, fail-closed input validation, migration-safe saves, CI, architecture docs, and a written threat model. A TypeScript backend (Fastify, MySQL, Redis) with JWT auth, refresh-token reuse detection and a double-entry ledger is in progress, with an MCP agent server and Python tooling next.
 
 ### What I work on
-- **AI agent tooling.** Model Context Protocol servers that give LLM agents (Claude) typed tool access to internal APIs, databases, logs and metrics, git and CI, and Roblox Studio. Least-privilege permissions, approval gates on irreversible actions, prompt-injection defenses, evals and tracing, reusable agent skills and multi-agent workflows. Cut feature delivery time by 30%+.
+- **AI agent tooling.** Model Context Protocol servers that give LLM agents (Claude) typed tool access to internal APIs, databases, logs and metrics, git and CI, and developer IDEs. Least-privilege permissions, approval gates on irreversible actions, prompt-injection defenses, evals and tracing, reusable agent skills and multi-agent workflows. Cut feature delivery time by 30%+.
 - **Backend services.** Node.js and TypeScript microservices and REST APIs covering real-time state, authentication, and server-authoritative validation. C++ backend services and internal tooling.
 - **Data pipelines.** Streaming and batch processing, message queues and ETL into SQL and NoSQL stores, plus a centralized logging and metrics pipeline that cut incident resolution time by 40%.
 - **Infrastructure.** Kubernetes, Terraform-managed AWS, Docker, Linux, CI/CD, observability and alerting.
