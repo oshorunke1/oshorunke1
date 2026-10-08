@@ -1,12 +1,23 @@
 # Olushola Shorunke
-Full stack software engineer. I build backend services and the products on top of them, and I work directly with the people who use what I ship.
+
+Software engineer. I build backend services, real-time multiplayer systems, and AI agent tooling, and I have shipped games on Roblox since 2014.
+
+### Featured project
+**[Outpost](https://github.com/oshorunke1/outpost)**: a strict-Luau Roblox game framework with server-authoritative networking, fail-closed input validation, migration-safe saves, CI, architecture docs, and a written threat model. A TypeScript game backend and an MCP agent server are planned next.
 
 ### What I work on
-- Backend services and REST APIs in Node.js and TypeScript, built for real-time state, authentication, and server-authoritative validation at scale
-- Full stack delivery end to end, from service architecture through the interface users actually touch
-- LLM agent tooling: Model Context Protocol servers connecting agents to production APIs, with guardrails, permission boundaries, and persistent context
+- **AI agent tooling.** Model Context Protocol servers that give LLM agents (Claude) typed tool access to internal APIs, databases, logs and metrics, git and CI, and Roblox Studio. Least-privilege permissions, approval gates on irreversible actions, prompt-injection defenses, evals and tracing, reusable agent skills and multi-agent workflows. Cut feature delivery time by 30%+.
+- **Backend services.** Node.js and TypeScript microservices and REST APIs covering real-time state, authentication, and server-authoritative validation. C++ backend services and internal tooling.
+- **Data pipelines.** Streaming and batch processing, message queues and ETL into SQL and NoSQL stores, plus a centralized logging and metrics pipeline that cut incident resolution time by 40%.
+- **Infrastructure.** Kubernetes, Terraform-managed AWS, Docker, Linux, CI/CD, observability and alerting.
+- **Roblox and Luau.** Strict Luau, Rojo, server-client networking, DataStore persistence, anti-cheat, monetization and live ops.
 
 ### Track record
-- Sole engineer on two commercially acquired products, each taken from an empty repository to 15,000-20,000 concurrent users, then handed to the acquiring team and supported in production after transfer
-- Real-time multiplayer backends at 17,000+ concurrent users, sub-120 ms
-- Five client-specific backend frameworks delivered as a freelance engineer, scoped with each client and operated at 99.9% uptime
+- Lead engineer on two commercially acquired Roblox games, each built from an empty repository to 15,000-20,000 concurrent players, then handed over to the acquiring team and supported in production after transfer
+- $50,000 USD in revenue in the first 3 days of one launch
+- Real-time multiplayer backends held at sub-120 ms for 17,000+ concurrent users
+- Five client-specific backend frameworks delivered as a freelance engineer, operated at 99.9% uptime
+- AI benchmark and evaluation task authoring
+
+### Stack
+TypeScript · JavaScript · Node.js · Luau · C++ · C# · Python · Go · Ruby · SQL · React · Kubernetes · Terraform · AWS · Docker · MySQL · Rojo · Git
