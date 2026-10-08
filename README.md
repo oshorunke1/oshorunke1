@@ -3,7 +3,7 @@
 Full Stack Software Engineer. I build backend services, real-time multiuser systems, and AI agent tooling, and I have shipped projects since 2014.
 
 ### Featured project
-**[Outpost](https://github.com/oshorunke1/outpost)**: a strict-Luau game framework with server-authoritative networking, fail-closed input validation, migration-safe saves, CI, architecture docs, and a written threat model. A TypeScript game backend and an MCP agent server are planned next.
+**[Outpost](https://github.com/oshorunke1/outpost)**: a strict-Luau framework with server-authoritative networking, fail-closed input validation, migration-safe saves, CI, architecture docs, and a written threat model. A TypeScript backend and an MCP agent server are planned next.
 
 ### What I work on
 - **AI agent tooling.** Model Context Protocol servers that give LLM agents (Claude) typed tool access to internal APIs, databases, logs and metrics, git and CI, and Roblox Studio. Least-privilege permissions, approval gates on irreversible actions, prompt-injection defenses, evals and tracing, reusable agent skills and multi-agent workflows. Cut feature delivery time by 30%+.
