@@ -20,4 +20,4 @@ Software engineer. I build backend services, real-time multiplayer systems, and 
 - AI benchmark and evaluation task authoring
 
 ### Stack
-TypeScript · JavaScript · Node.js · Luau · C++ · C# · Python · Go · Ruby · SQL · React · Kubernetes · Terraform · AWS · Docker · MySQL · Rojo · Git
+Python · C++ · C# · TypeScript · Go · JavaScript · Kubernetes · Terraform · AWS · Docker · Node.js · Ruby · SQL · React · MySQL · Luau · Rojo · Git
