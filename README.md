@@ -1,6 +1,6 @@
 # Olushola Shorunke
 
-Full Stack Software Engineer. I build backend services, real-time multiuser systems, and AI agent tooling, and I have shipped projects since 2014.
+Full Stack Software Engineer. I build backend services, real-time multiuser systems, and AI agent tooling, and I have been shipping projects since 2014.
 
 ### Featured project
 **[Outpost](https://github.com/oshorunke1/outpost)**: a strict-Luau framework with server-authoritative networking, fail-closed input validation, migration-safe saves, CI, architecture docs, and a written threat model. A TypeScript backend (Fastify, MySQL, Redis) with JWT auth, refresh-token reuse detection and a double-entry ledger is in progress, with an MCP agent server and Python tooling next.
